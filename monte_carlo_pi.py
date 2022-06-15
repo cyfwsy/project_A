@@ -9,5 +9,6 @@ s = 4*n/N
 print(s)
 print('end')
 print('second end')
+print('third end')
 
 
